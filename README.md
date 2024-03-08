@@ -1,3 +1,4 @@
-# Unit2
+# Unit 2 Deliverable Worksheets 
 
-[Deliv_2A.docx](https://github.com/mehamacwan/Unit2/files/14543029/Deliv_2A.docx)
+[2A_deliverable_worksheet.docx](https://github.com/mehamacwan/Unit2/files/14543087/2A_deliverable_worksheet.docx)
+[2C_deliverable_worksheet.docx](https://github.com/mehamacwan/Unit2/files/14543089/2C_deliverable_worksheet.docx)
